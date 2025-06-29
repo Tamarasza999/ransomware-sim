@@ -1,9 +1,9 @@
 # Folder-Specific Ransomware Simulator
 
-A C# console app that simulates ransomware by encrypting and decrypting files in a chosen folder using AES-256.
+C# console app that simulates ransomware by encrypting and decrypting files in a chosen folder using AES-256.
 
 <p align="center">
-  <img src="image1.png" width="300" alt="# Folder-Specific Ransomware Simulator"/>
+  <img src="image1.png" width="450" alt="# Folder-Specific Ransomware Simulator"/>
 </p>
 
 ---
