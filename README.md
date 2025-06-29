@@ -3,7 +3,7 @@
 A C# console app that simulates ransomware by encrypting and decrypting files in a chosen folder using AES-256.
 
 <p align="center">
-  <img src="screenshots/image1.png" width="300" alt="# Folder-Specific Ransomware Simulator"/>
+  <img src="image1.png" width="300" alt="# Folder-Specific Ransomware Simulator"/>
 </p>
 
 ---
