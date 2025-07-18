@@ -1,5 +1,10 @@
 # Folder-Specific Ransomware Simulator
 
+> **Disclaimer**  
+> This project is intended for educational and ethical testing purposes only.  
+> Do not use this software on any system without the explicit consent of the owner.  
+> The author is not responsible for any misuse or damage resulting from this tool.
+
 C# console app that simulates ransomware by encrypting and decrypting files in a chosen folder using AES-256.
 
 <p align="center">
